@@ -1,6 +1,6 @@
 module.exports = (req, res) => {
   return res.status(200).json({
     message: "API online",
-    salutation: "Oi meu bemmmmm",
+    salutation: "Hello Renan-san",
   });
 };
